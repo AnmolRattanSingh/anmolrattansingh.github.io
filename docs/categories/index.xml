@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Gati Aher</title>
-    <link>http://GatiAher.github.io/categories/</link>
-    <description>Recent content in Categories on Gati Aher</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Categories on Anmol Sandhu</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Anmol Sandhu</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 12:21:08 -0400</lastBuildDate><atom:link href="http://GatiAher.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Concepts</title>
-      <link>http://GatiAher.github.io/categories/concepts/</link>
-      <pubDate>Fri, 20 May 2022 12:21:08 -0400</pubDate>
-      
-      <guid>http://GatiAher.github.io/categories/concepts/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 23 Nov 2024 17:20:39 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://GatiAher.github.io/categories/projects/</link>
-      <pubDate>Mon, 16 May 2022 00:51:42 -0400</pubDate>
-      
-      <guid>http://GatiAher.github.io/categories/projects/</guid>
+      <link>http://localhost:1313/categories/projects/</link>
+      <pubDate>Sat, 23 Nov 2024 17:20:39 -0500</pubDate>
+      <guid>http://localhost:1313/categories/projects/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

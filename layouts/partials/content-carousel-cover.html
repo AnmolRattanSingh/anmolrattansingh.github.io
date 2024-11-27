@@ -6,8 +6,14 @@
   class="article-image-section article-section"
   style="
     background-image: url('{{ .Permalink }}');
+    background-size: contain; /* Ensures the image fits within the div */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling of the image */
+    width: 100%; /* Example width */
+    height: 300px; /* Example height */
   "
 ></div>
+
 <!-- End if -->
 {{ end }}
 <!-- End with -->

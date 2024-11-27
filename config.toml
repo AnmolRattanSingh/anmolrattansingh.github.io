@@ -1,5 +1,5 @@
-baseURL = "http://GatiAher.github.io"
-title = "Gati Aher"
+baseURL = "http://anmolrattansingh.github.io"
+title = "Anmol Sandhu"
 publishDir = "docs"
 
 
@@ -7,12 +7,12 @@ languageCode = "en-us"
 copyright = ""
 
 [author]
-    name = "Gati Aher"
+    name = "Anmol Sandhu"
 
 [params]
     dateFormat = "Jan 2, 2006"
-    description = "Gati Aher's personal website. Reflections, notes, and guides for computer science and machine learning."
-    images = ["/img/cover.png"]
+    description = "Anmol Sandhu's personal website."
+    # images = ["/img/cover.png"]
 
 # See https://feathericons.com/
 # The value of pre is the icon name
@@ -37,12 +37,12 @@ copyright = ""
   [[footer.main]]
     name = " "
     pre = "github"
-    url = "https://github.com/GatiAher"
+    url = "https://github.com/AnmolRattanSingh"
     weight = 1
   [[footer.main]]
     name = ""
     re = "linkedin"
-    url = "https://www.linkedin.com/in/gatiaher"
+    url = "https://www.linkedin.com/in/anmolrattansinghsandhu/"
     weight = 2
 
 [taxonomies]
