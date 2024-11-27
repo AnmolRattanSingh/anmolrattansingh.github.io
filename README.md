@@ -1,4 +1,4 @@
-# Gati Aher's Website
+# Anmol Rattan Singh Sandhu's Website
 
 Welcome to my personal site!
 
@@ -15,7 +15,8 @@ Adding MathJax Support:
 * [Math-Typesetting In Hugo (Mathjax)](https://geoffruddock.com/math-typesetting-in-hugo/) By Geoff Ruddock
 
 Favicon:
-* https://favicon.io/favicon-generator/
+
+* <https://favicon.io/favicon-generator/>
 
 # Add New Post
 
@@ -32,6 +33,7 @@ draft: true
 ```
 
 3. Start local server with drafts enabled: `hugo server -D`
+
 ```
 
 4. Set `draft: False`

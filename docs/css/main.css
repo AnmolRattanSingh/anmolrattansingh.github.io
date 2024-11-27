@@ -4426,23 +4426,6 @@ ul.triangle > li::before {
   border-bottom: solid 1px rgb(0, 0, 0);
 }
 
-/* Art */
-
-#index-section-art .custom-small-button {
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 0.25em;
-  color: #ffffff;
-  background-color: #457eac;
-  border: 0px none;
-}
-
-#index-section-art .custom-small-button:hover {
-  color: #000000;
-  background-color: #ffffff;
-  border: 0px none;
-}
-
 /* Single */
 
 #single header {
