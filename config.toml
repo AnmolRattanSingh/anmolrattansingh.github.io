@@ -1,6 +1,6 @@
 baseURL = "http://anmolrattansingh.github.io"
 title = "Anmol Sandhu"
-publishDir = "docs"
+publishDir = "public"
 
 
 languageCode = "en-us"
