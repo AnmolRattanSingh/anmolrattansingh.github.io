@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artwork on Anmol Sandhu</title>
-    <link>http://localhost:1313/artwork/</link>
+    <link>https://anmolrattansingh.github.io/artwork/</link>
     <description>Recent content in Artwork on Anmol Sandhu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jan 2022 16:21:10 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/artwork/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anmolrattansingh.github.io/artwork/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abstract Art</title>
-      <link>http://localhost:1313/artwork/abstract-art/</link>
+      <link>https://anmolrattansingh.github.io/artwork/abstract-art/</link>
       <pubDate>Mon, 24 Jan 2022 16:21:10 -0500</pubDate>
-      <guid>http://localhost:1313/artwork/abstract-art/</guid>
+      <guid>https://anmolrattansingh.github.io/artwork/abstract-art/</guid>
       <description>&lt;p&gt;&lt;em&gt;India Ink Pen on 8.5&amp;quot;x11&amp;quot; paper.&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;Drawn from imagination without an eraser.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

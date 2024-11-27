@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Anmol Sandhu</title>
-    <link>http://localhost:1313/categories/projects/</link>
+    <link>https://anmolrattansingh.github.io/categories/projects/</link>
     <description>Recent content in Projects on Anmol Sandhu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Mar 2024 14:22:03 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anmolrattansingh.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C Web Server</title>
-      <link>http://localhost:1313/projects/c-web-server/</link>
+      <link>https://anmolrattansingh.github.io/projects/c-web-server/</link>
       <pubDate>Tue, 26 Mar 2024 14:22:03 -0400</pubDate>
-      <guid>http://localhost:1313/projects/c-web-server/</guid>
+      <guid>https://anmolrattansingh.github.io/projects/c-web-server/</guid>
       <description></description>
     </item>
     <item>
       <title>Clipboard Transformer</title>
-      <link>http://localhost:1313/projects/clipboard-transformer/</link>
+      <link>https://anmolrattansingh.github.io/projects/clipboard-transformer/</link>
       <pubDate>Tue, 26 Mar 2024 14:22:03 -0400</pubDate>
-      <guid>http://localhost:1313/projects/clipboard-transformer/</guid>
+      <guid>https://anmolrattansingh.github.io/projects/clipboard-transformer/</guid>
       <description></description>
     </item>
     <item>
       <title>CNN MNIST</title>
-      <link>http://localhost:1313/projects/cnn-mnist/</link>
+      <link>https://anmolrattansingh.github.io/projects/cnn-mnist/</link>
       <pubDate>Tue, 26 Mar 2024 14:22:03 -0400</pubDate>
-      <guid>http://localhost:1313/projects/cnn-mnist/</guid>
+      <guid>https://anmolrattansingh.github.io/projects/cnn-mnist/</guid>
       <description></description>
     </item>
     <item>
       <title>Hole in the Camera</title>
-      <link>http://localhost:1313/projects/hole-in-the-camera/</link>
+      <link>https://anmolrattansingh.github.io/projects/hole-in-the-camera/</link>
       <pubDate>Tue, 26 Mar 2024 14:22:03 -0400</pubDate>
-      <guid>http://localhost:1313/projects/hole-in-the-camera/</guid>
+      <guid>https://anmolrattansingh.github.io/projects/hole-in-the-camera/</guid>
       <description></description>
     </item>
     <item>
       <title>Huffman Encoding</title>
-      <link>http://localhost:1313/projects/huffman-encoding/</link>
+      <link>https://anmolrattansingh.github.io/projects/huffman-encoding/</link>
       <pubDate>Tue, 26 Mar 2024 14:22:03 -0400</pubDate>
-      <guid>http://localhost:1313/projects/huffman-encoding/</guid>
+      <guid>https://anmolrattansingh.github.io/projects/huffman-encoding/</guid>
       <description></description>
     </item>
     <item>
       <title>Image Segmentation</title>
-      <link>http://localhost:1313/projects/image-segmentation/</link>
+      <link>https://anmolrattansingh.github.io/projects/image-segmentation/</link>
       <pubDate>Tue, 26 Mar 2024 14:22:03 -0400</pubDate>
-      <guid>http://localhost:1313/projects/image-segmentation/</guid>
+      <guid>https://anmolrattansingh.github.io/projects/image-segmentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Sudoku Solver</title>
-      <link>http://localhost:1313/projects/sudoku-solver/</link>
+      <link>https://anmolrattansingh.github.io/projects/sudoku-solver/</link>
       <pubDate>Tue, 26 Mar 2024 14:22:03 -0400</pubDate>
-      <guid>http://localhost:1313/projects/sudoku-solver/</guid>
+      <guid>https://anmolrattansingh.github.io/projects/sudoku-solver/</guid>
       <description></description>
     </item>
   </channel>
