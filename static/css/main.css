@@ -4354,7 +4354,7 @@ ul.triangle > li::before {
   .carousel > article {
     grid-template-columns: none;
     grid-template-rows: 1fr repeat(3, 0.5fr);
-    height: max(700px, 100%);
+    height: 100%;
   }
 
   .carousel .article-section:nth-child(1) {
