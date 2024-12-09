@@ -3921,7 +3921,7 @@ ul.triangle > li::before {
 }
 
 #index-section-intro img {
-  height: 170px;
+  height: 200px;
   object-fit: contain;
   max-width: 100%;
   box-sizing: border-box;
@@ -3941,6 +3941,7 @@ ul.triangle > li::before {
   color: #261c3e;
   padding-left: 0.1rem;
   margin: 0 0 0 0;
+  font-size: large;
 }
 
 #index-section-intro .welcome {
@@ -3961,6 +3962,7 @@ ul.triangle > li::before {
 #index-section-intro .contact {
   padding-left: 0.5rem;
   color: #000000;
+  font-size: x-large;
 }
 
 #index-section-intro .welcome .contact a {
